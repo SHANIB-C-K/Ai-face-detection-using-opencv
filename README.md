@@ -63,7 +63,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👨‍💻 Author
-**SHANIB C K** - [GitHub Profile]([https://github.com/your-username](https://github.com/SHANIB-C-K)
+**SHANIB C K** - [GitHub Profile]([https://github.com/SHANIB-C-K](https://github.com/SHANIB-C-K)
 
 💡 *Feel free to fork, modify, and contribute to this project!* 🚀
 
