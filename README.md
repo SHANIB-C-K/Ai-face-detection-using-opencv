@@ -51,7 +51,6 @@ pip install opencv-python
 ---
 
 ## 🛠️ Troubleshooting
-- ❌ **Webcam not accessible?** Ensure no other applications are using it.
 - 📂 **Missing cascade file?** Download it from the official OpenCV repository.
 - 🎯 **Face detection accuracy issues?** Try adjusting the parameters in `detectMultiScale()`.
 
